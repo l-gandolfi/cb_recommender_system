@@ -1,0 +1,2 @@
+To download the data go to:
+https://gitlab.com/info_retr/recommender-system
